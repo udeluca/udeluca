@@ -57,6 +57,10 @@ Backend API following MVC architecture with realistic payment processing.
 
 `Python` • `FastAPI` • `Pydantic` • `Pytest`
 
+**Repository**
+
+🔗 https://github.com/treyhuculak/iFody-COSC-310-Project
+
 ---
 
 ## 🐍 Snake Game AI
