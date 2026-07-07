@@ -77,6 +77,10 @@ Classic Snake game built in LÖVE2D featuring a modified A* algorithm capable of
 
 `Lua` • `LÖVE2D`
 
+**Repository**
+
+🔗  https://github.com/udeluca/Snake_Game
+
 ---
 
 ## 🏭 Manufacturing Execution System (MES)
