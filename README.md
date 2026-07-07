@@ -168,7 +168,7 @@ Also use:
 
 💼 LinkedIn: **www.linkedin.com/in/udeluca**
 
-📄 Resume: **[Resume](assets/Umberto_De_Luca_Resume.pdf)**
+📄 Resume: **[Resume](assets/Resume – Umberto De Luca - 2026.pdf)**
 
 ---
 
