@@ -85,15 +85,13 @@ A full-stack Manufacturing Execution System (MES) developed as part of a team pr
 
 **Highlights**
 - Team-based software engineering project
-- Full-stack web application
+- Integration with Siemens PLC
 - Production and inventory management
 - Database-backed application
-- RESTful API development
-- Collaborative development using Git and GitHub
 
 **Tech Stack**
 
-`Python` • `FastAPI` • `React` • `SQLAlchemy` • `SQLite` • `Docker`
+`Python` • `FastAPI` • `SQLAlchemy` • `SQLite` • `Siemens PLC`
 
 **Repository**
 
