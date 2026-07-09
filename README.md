@@ -13,8 +13,6 @@ Currently seeking opportunities to build impactful software while continuously e
 - 🎓 Computer Engineering student at **UBC Okanagan**
 - 💼 Technical Intern developing a production-oriented healthcare platform
 - 🎮 Passionate about Game Development, AI, and Software Engineering
-- 🌎 Brazilian currently studying in Canada
-- 🚀 Always looking for opportunities to build meaningful software
 
 ---
 
@@ -35,8 +33,6 @@ In addition to my university coursework, I've completed Harvard's **CS50** onlin
   - State machines
   - Physics and collision detection
   - Gameplay mechanics using LÖVE2D
-
-These courses provided hands-on experience through a series of increasingly complex programming projects, reinforcing both software engineering principles and practical problem-solving skills.
 
 ---
 
@@ -146,19 +142,8 @@ Also use:
 
 - Cursor
 - Codex
+- Claude Code
 - Visual Studio
-- SolidWorks
-- Make
-
----
-
-# 🌱 Currently Learning
-
-- AWS Cloud
-- PostgreSQL
-- System Design
-- Software Architecture
-- Distributed Systems
 
 ---
 
@@ -175,13 +160,3 @@ Also use:
 # 📊 GitHub Statistics
 
 [![Umberto's GitHub stats](https://github-stats-extended.vercel.app/api?username=udeluca)](https://github.com/stats-organization/github-stats-extended)
-
----
-
-# 💡 Interests
-
-- 🎮 Game Development
-- 🧠 Artificial Intelligence
-- ⚙️ Software Engineering
-- 🏗 Software Architecture
-- 🚀 Backend Development
